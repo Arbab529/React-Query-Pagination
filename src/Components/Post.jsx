@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Post = ({ posts }) => {
-
     return (
         <div className='grid gap-4 xsm:grid-cols-1 sm:grid-cols-2 md:grid-cols-3'>
             {
@@ -18,6 +17,7 @@ const Post = ({ posts }) => {
                 })
             }
         </div>
+
     )
 }
 
