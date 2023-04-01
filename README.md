@@ -19,3 +19,6 @@ yarn install
 yarn run dev
 ```
 
+## Preview URL
+https://arbab-react-query-pagination.netlify.app/
+
