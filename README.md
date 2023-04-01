@@ -1,6 +1,9 @@
 ## UI Libraries
+
+```
 > Tailwind CSS
 > Daisy UI
+```
 
 ## How to Run Project
 
